@@ -1,0 +1,10 @@
+/.DS_Store
+/.env
+/AI Web Scraper
+/EmbeddingLearning.py
+/image_descriptions copy.csv
+/image_descriptions.csv
+/output
+/requirements.txt
+/test.py
+/venv
